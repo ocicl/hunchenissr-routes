@@ -1,0 +1,10 @@
+* hunchenissr-routes
+
+Enable path variables when using hunchenissr.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/interactive-ssr/hunchenissr-routes.git   |
+| commit  | 2e83197  |
+| systems | hunchenissr-routes |
+|---------+-------------------------------------------|
+
